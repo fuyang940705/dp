@@ -1,3 +1,6 @@
+Roses are red
+Violets are blue
+
 ```cpp
 #include <iostream>
 using namespace std;
